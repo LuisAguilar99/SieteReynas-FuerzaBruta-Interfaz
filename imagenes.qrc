@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tablero.png</file>
+        <file>dama.png</file>
+    </qresource>
+</RCC>
